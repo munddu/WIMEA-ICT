@@ -4,3 +4,4 @@ automated setup guide for a weather station
 -tasks for members
 -[] @munddu for setting up automatic simulation
 -[] @mawandahenry for mannual setting
+-[] @munddu finalizing with missing pics
